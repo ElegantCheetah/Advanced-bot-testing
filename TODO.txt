@@ -1,0 +1,9 @@
+Zain Kergaye
+
+Useful site to learn way around WPI libraries:
+
+https://docs.wpilib.org/en/stable/index.html 
+
+
+
+Make controller (Standard dualshock controller layout) input into motor movement.
